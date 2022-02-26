@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+Markdown     26 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   85.95 % 
+TypeScript   2 mins          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.66 % 
+```
 <!--END_SECTION:waka-->
 
 
