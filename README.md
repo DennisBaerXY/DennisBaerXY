@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi 👋, my name is Dennis.
+
+I am a Computer Science student in Germany and I have a passion for programming. I love working on new projects and I also enjoy playing sports and spending time with friends and family.
+
+At the moment, I focus on fullstack development because I find it the most enjoyable aspect of programming. I have used technologies like Next.JS, Node.JS, React and many more. My main programming language is JavaScript but I am also starting to use TypeScript more. This is because of my studies in University, where I am also proficient in Java and OOP concepts.
+
+However, fullstack development with a NodeJS backend is my preference and I am confident using SQL or NoSql databases.
 
 <!--
 **DennisBaerXY/DennisBaerXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
