@@ -34,6 +34,7 @@ GitIgnore file   2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisbaerxy&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisBaerXY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
