@@ -2,9 +2,9 @@
 
 I am a Computer Science student in Germany and I have a passion for programming. I love working on new projects and I also enjoy playing sports and spending time with friends and family.
 
-At the moment, I focus on fullstack development because I find it the most enjoyable aspect of programming. I have used technologies like Next.JS, Node.JS, React and many more. My main programming language is TypeScript and Kotlin. 
+At the moment, I focus on Swift development because I want to improve my skills in App Development. I have used technologies like Next.JS, Node.JS, React and many more. My main programming language is TypeScript and Kotlin. 
 
-However, fullstack development with a NodeJS backend is my preference and I am confident using SQL or NoSql databases.
+
 
 - 🌱 I’m currently learning how to use AWS and Docker.
 <!--
